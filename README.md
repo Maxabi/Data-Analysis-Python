@@ -12,4 +12,4 @@ Data analysis course, the files are in jupyter notebook format in the folder src
 
 ### [Cours 5 - Regression Bayesienne, Cross-Validation, Penalisation](https://github.com/Maxabi/Data-Analysis-Python/blob/master/src/Cours_5.ipynb)
 
-### Cours 6 - Introduction aux Reseaux de Neurones
+### [Cours 6 - Introduction aux Reseaux de Neurones](https://github.com/Maxabi/Data-Analysis-Python/blob/master/src/Cours_6.ipynb)
